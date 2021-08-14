@@ -1,0 +1,9 @@
+[submodule "bling"]
+	path = bling
+	url = git@github.com:BlingCorp/bling.git
+[submodule "freedesktop"]
+	path = freedesktop
+	url = git@github.com:lcpz/awesome-freedesktop.git
+[submodule "lain"]
+	path = lain
+	url = git@github.com:lcpz/lain.git
